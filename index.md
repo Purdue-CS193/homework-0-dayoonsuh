@@ -1,7 +1,7 @@
 # Dayoon's First CS193 Homework
 
 ```markdown
-## My favorite things about CS 193
+My favorite things about CS 193
 - no exams
 - cool course leaders
 - learning tools for computer science
